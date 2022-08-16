@@ -1,0 +1,11 @@
+/dataSources/
+/httpRequests/
+/modules/
+/libraries/
+/shelf/
+
+/compiler.xml
+/dataSources.local.xml
+/jarRepositories.xml
+/modules.xml
+/workspace.xml
